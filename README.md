@@ -3,7 +3,7 @@
 ## a tensorflow and raspberry pi powered autonomous robot
 
 
-## Tensorbot, or T-Bot for short
+## Tensorflowbot or T-Bot
 
 T-Bot aims to be the worlds smallest artificial intelligence robot. We want to make T-Bot accessible to everyone by making it affordable and easy to learn about artificial intelligence.
 
@@ -13,5 +13,5 @@ Currently T-Bot drives around autonomously and observes its environment via its 
 
 We plan to further develop T-Bot. We envision better speech synthesization and additional features such as facial recognition, motion detection and increased mobility. We may consider making T-Bot easy to integrate into any robotic device, such that it can be used as a component for a drone or similar.
 
-More info can be found here: http://www.jtoy.net/projects/tensorbot/
+
 
