@@ -1,4 +1,4 @@
-# tensorbot
+# Tensorflowbot
 
 ## a tensorflow and raspberry pi powered autonomous robot
 
